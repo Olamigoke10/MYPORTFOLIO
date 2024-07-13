@@ -222,7 +222,7 @@ import {
         },
       ],
       image: translator,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Olamigoke10/TranslateApp.git",
     },
     {
       name: "Study App",
@@ -243,7 +243,7 @@ import {
         },
       ],
       image: study,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Olamigoke10/Study-Bud.git",
     },
     {
       name: "Weather Forecast",
@@ -264,7 +264,7 @@ import {
         },
       ],
       image: WeatherApp,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/Olamigoke10/WeatherForeacstWebApp.git",
     },
   ];
   
