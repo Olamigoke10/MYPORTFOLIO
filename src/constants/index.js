@@ -29,6 +29,8 @@ import {
     study,
     translator,
     WeatherApp,
+    middlesex,
+    fnhc,
   } from "../assets";
   
   export const navLinks = [
@@ -122,56 +124,49 @@ import {
   
   const experiences = [
     {
-      title: "Student",
-      company_name: "@Aptech",
-      icon: aptech,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Feb 2024",
-      points: [
-        "Currently Studying at Aptech.",
-        "Currently Studying at Aptech.",
-        "Currently Studying at Aptech.",
-        "Currently Studying at Aptech.",
-      ],
+    title: "Advanced Diploma in Software Engineering",
+company_name: "Aptech Computer Education",
+icon: aptech,
+iconBg: "#E6DEDD",
+date: "Feb 2022 - July 2024",
+points: [
+  "Studying advanced concepts in software engineering, web development, and database systems.",
+  "Gaining hands-on experience with modern frameworks and tools including Django, React, and REST APIs.",
+  "Building real-world projects to strengthen skills in full-stack development.",
+  "Focusing on software design, data structures, algorithms, and system architecture."
+],
+
     },
     {     
-    title: "Student",
-    company_name: "@Aptech",
-      icon: aptech,
-      iconBg: "#E6DEDD",
-      date: "Jan 2022- Feb 2024",
-      points: [
-        "Currently Studying at Aptech.",
-        "Currently Studying at Aptech.",
-        "Currently Studying at Aptech.",
-        "Currently Studying at Aptech.",
-      ],
+ title: "Full-Stack Developer",
+company_name: "@FNHC",
+icon: fnhc,
+iconBg: "#E6DEDD",
+date: "Jan 2025 - April 2025",
+points: [
+  "Develop and maintain web applications using Django, React, Tailwind CSS, and PostgreSQL.",
+  "Design and integrate RESTful APIs to ensure scalable, secure, and efficient backend operations.",
+  "Build responsive and user-friendly interfaces with React and Tailwind CSS.",
+  "Implement and optimize relational database models, queries, and migrations using PostgreSQL.",
+  "Collaborate with team members to deliver full-stack solutions aligned with business goals.",
+  "Follow best practices in version control (Git), testing, and deployment for smooth project delivery.",
+  "Contribute to innovative digital solutions that support First Nation Horizon Contracting’s mission."
+],
+
     },
     {
-      title: "Student",
-      company_name: "@Aptech",
-      icon: aptech,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Feb 2024",
-      points: [
-       "Currently Studying at Aptech.",
-       "Currently Studying at Aptech.",
-       "Currently Studying at Aptech.",
-       "Currently Studying at Aptech."
-      ],
-    },
-    {
-      title: "Student",
-      company_name: "@Aptech",
-      icon: aptech,
-      iconBg: "#E6DEDD",
-      date: "Jan 2022 - Feb 2024",
-      points: [
-        "Currently Studying at Aptech.",
-        "Currently Studying at Aptech.",
-        "Currently Studying at Aptech.",
-        "Currently Studying at Aptech.",
-      ],
+    title: "BSc (Hons) Information Technology and Business Information Systems",
+company_name: "Middlesex University",
+icon: middlesex,
+iconBg: "#E6DEDD",
+date: "Sep 2025 - Present",
+points: [
+  "Pursuing a top-up degree in Information Technology and Business Information Systems.",
+  "Studying modules including Strategic Information Systems, Business Intelligence, Technology Innovation Management & Entrepreneurship (TIME), and Interaction Design & User Experience.",
+  "Developing advanced knowledge in IT strategy, data analytics, and user-centered system design.",
+  "Enhancing skills to bridge the gap between technology and business decision-making."
+],
+
     },
   ];
   

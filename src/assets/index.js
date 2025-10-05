@@ -33,6 +33,8 @@ import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
 import aptech from "./company/Aptech.jpeg";
+import middlesex from './company/middlesexLogo.png'
+import fnhc from './company/fnhc.png'
 
 
 import carrent from "./carrent.png";
@@ -76,4 +78,6 @@ export {
   translator,
   WeatherApp,
   study,
+  middlesex,
+  fnhc,
 };
